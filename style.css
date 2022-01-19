@@ -2,7 +2,9 @@
     box-sizing: border-box;
 }
 
-
+body {
+    margin: 0 10%;
+}
 .cool-blue {
     display: inline-block;
     width: 32%;
@@ -26,6 +28,26 @@
     margin: 20px auto;
     min-height: 100px;
     background-color: #d957d9;
+    color: #000;
+}
+
+.mint-green{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #4fe0b0;
+    color: #000;
+}
+
+.beige{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    background-color: #efd9ca;
     color: #000;
 }
 
